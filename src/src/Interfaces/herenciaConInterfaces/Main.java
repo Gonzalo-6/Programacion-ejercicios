@@ -1,6 +1,8 @@
 package Interfaces.herenciaConInterfaces;
 import java.util.ArrayList;
 import java.util.List;
+
+
 public class Main {
     public static void main(String[] args) {
         List<Vendible> productos = new ArrayList<>();
@@ -17,7 +19,5 @@ public class Main {
             }
         }
     }
-    //lista de vendibles 'productos'
-    //add prodcutos fisicos y digitales
-    //for vendibles p: porductos
+
 }
